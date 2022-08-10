@@ -82,14 +82,5 @@ console.log(`The navigator name is: ${hacker2}`)
     
     console.log(contador)
 
-    let normal = 'amor'
-    let palindromo = []
-    for(i = normal.length -1; i > -1; i-- ){
-        palindromo.push(normal[i])
-       
-    }
-    palindromo = palindromo.join('')
-
-    console.log(palindromo)
- 
     
+   
